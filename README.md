@@ -1,4 +1,7 @@
-# Poulomi-s-1st-application-testing
+# Tutorial Ninja Manual Testing
+
+URL:- https://tutorialsninja.com/demo/index.php?route=product/product&product_id=42
+
 Introduction
 
 This project focuses on the manual testing of a web application to ensure its functionality, usability, and performance meet the required standards. The testing process involves creating detailed test plans, executing test cases, identifying defects, and reporting findings systematically.
